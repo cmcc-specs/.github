@@ -1,0 +1,38 @@
+## CMCC Technical Specifications
+
+> CMCC 是 Chinese Minecraft Community Commons 的缩写  
+> （不是 China Mobile Communications Company）
+
+> cmcc-specs 的非正式英文全名是 Chinese Minecraft Community Commons (Technical Specification Branch)  
+> cmcc-specs 的非正式中文名称是 中文 Minecraft 社区技术规范
+
+本组织的创立目的是收集并整理中文 Minecraft 社区已经广泛使用中的事实标准，并编制索引。
+
+---
+### 已确认的事实标准：
+
+同一个归口单位使用同样的代号前缀。
+
+#### BMCLAPI（BMCLAPI 和原 MCBBS 镜像源）
+BMCLAPI 是一个镜像服务，分发绝大多数 Minecraft 热点资源。
+- [BMCLAPI-1](https://bmclapidoc.bangbang93.com/)  BMCLAPI 请求和响应格式
+
+#### Authlib-Injector（外置登录）
+Authlib-Injector 是最流行的外置登录注入工具，维护了一套用于自定义 Yggdrasil 服务端和相应启动器的技术规范。
+- [AUTHINJ-1](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)  Authlib-Injector 兼容的 Yggdrasil 服务端技术规范
+- [AUTHINJ-2](https://github.com/yushijinhun/authlib-injector/wiki/%E5%90%AF%E5%8A%A8%E5%99%A8%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)  Authlib-Injector 兼容的启动器技术规范
+
+#### MCLF（中国MC启动器联盟）
+MCLF 发布的规范主要关注启动器需要标准化的实现，主要中文启动器作者均参与。
+- [MCLF-1](https://github.com/MCLF-CN/docs/issues/1)  Authlib-Injector 兼容的 Yggdrasil 服务端的公告扩展
+- [MCLF-2](https://github.com/MCLF-CN/docs/issues/2)  BMCLAPI 客户端 UA 字符串
+- [MCLF-5](https://github.com/MCLF-CN/docs/issues/5)  公共依赖项
+- [MCLF-6](https://github.com/MCLF-CN/docs/issues/6)  OptiFine 兼容性警告
+- [MCLF-7](https://github.com/MCLF-CN/docs/issues/7)  默认的离线 UUID
+
+#### MCIM（模组镜像源）
+MCIM 是一个镜像服务，缓存并分发来自 CurseForge 和 Modrinth 的热门模组信息
+- [MCIM-1](https://mod.mcimirror.top/docs)  MCIM 请求和响应格式
+
+#### Open93AtHome
+尚未提供明文规范
