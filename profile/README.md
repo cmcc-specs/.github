@@ -25,6 +25,7 @@ Authlib-Injector 是最流行的外置登录注入工具，维护了一套用于
 - [AUTHINJ-24](https://github.com/yushijinhun/authlib-injector/issues/24)  AUTHINJ-S 的扩展：启动器公告
 - [AUTHINJ-110](https://github.com/yushijinhun/authlib-injector/issues/110)  AUTHINJ-S 的扩展：验证服务器图标
 - [AUTHINJ-136](https://github.com/yushijinhun/authlib-injector/issues/136)  [WIP]AUTHINJ-S-2 的修订：预读元数据从命令行参数变更为临时文件
+- [AUTHINJ-163](https://github.com/yushijinhun/authlib-injector/issues/163)  [WIP]AUTHINJ-S 的修订：将登录流程移动到启动器外部
 
 #### MCLF（中国MC启动器联盟）
 MCLF 发布的规范主要关注启动器需要标准化的实现，主要中文启动器作者均参与。
