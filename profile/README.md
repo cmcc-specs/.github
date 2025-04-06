@@ -19,8 +19,12 @@ BMCLAPI 是一个镜像服务，分发绝大多数 Minecraft 热点资源。
 
 #### Authlib-Injector（外置登录）
 Authlib-Injector 是最流行的外置登录注入工具，维护了一套用于自定义 Yggdrasil 服务端和相应启动器的技术规范。
-- [AUTHINJ-1](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)  Authlib-Injector 兼容的 Yggdrasil 服务端技术规范
-- [AUTHINJ-2](https://github.com/yushijinhun/authlib-injector/wiki/%E5%90%AF%E5%8A%A8%E5%99%A8%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)  Authlib-Injector 兼容的启动器技术规范
+- [AUTHINJ-S](https://github.com/yushijinhun/authlib-injector)  一组基于Authlib-Injector的外置登录实现方案
+  - [AUTHINJ-S-1](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)  Authlib-Injector 兼容的 Yggdrasil 服务端技术规范
+  - [AUTHINJ-S-2](https://github.com/yushijinhun/authlib-injector/wiki/%E5%90%AF%E5%8A%A8%E5%99%A8%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)  Authlib-Injector 兼容的启动器技术规范
+- [AUTHINJ-24](https://github.com/yushijinhun/authlib-injector/issues/24)  AUTHINJ-S 的扩展：启动器公告
+- [AUTHINJ-110](https://github.com/yushijinhun/authlib-injector/issues/110)  AUTHINJ-S 的扩展：验证服务器图标
+- [AUTHINJ-136](https://github.com/yushijinhun/authlib-injector/issues/136)  [WIP]AUTHINJ-S-2 的修订：预读元数据从命令行参数变更为临时文件
 
 #### MCLF（中国MC启动器联盟）
 MCLF 发布的规范主要关注启动器需要标准化的实现，主要中文启动器作者均参与。
