@@ -44,7 +44,7 @@ Scaffolding 是标准化组织的后起之秀，目前定义了 PCL CE 联机大
 - [SCF-SCFP](https://github.com/Scaffolding-MC/Scaffolding-MC/blob/main/README.md) Minecraft 联机客户端数据交换协议
 
 #### PCL（PCL 启动器）
-PCL 较少参与初期阶段的标准化进程。其在封装协议时一般考虑其在编程上是否是最简洁而容易实现的。
+PCL 较少参与初期阶段的标准化进程。其在封装协议时一般考虑其在编程上是否是最简洁，无心智负担而容易实现的。
 - [PCL-W-2](https://github.com/Meloong-Git/PCL/wiki/%E7%AE%80%E6%B4%81%E8%81%94%E6%9C%BA%E6%A0%87%E8%AE%B0%E7%BA%A6%E5%AE%9A) 简洁联机标记约定（Pure Connect Labeling）
 
 #### CurseForge、Modrinth、MultiMC
