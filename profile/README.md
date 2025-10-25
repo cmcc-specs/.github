@@ -27,10 +27,6 @@ Authlib-Injector 是最流行的外置登录注入工具，维护了一套用于
 - [AUTHINJ-136](https://github.com/yushijinhun/authlib-injector/issues/136)  [WIP]AUTHINJ-S-2 的修订：预读元数据从命令行参数变更为临时文件
 - [AUTHINJ-163](https://github.com/yushijinhun/authlib-injector/issues/163)  [WIP]AUTHINJ-S 的修订：将登录流程移动到启动器外部
 
-#### MCBBS（原我的世界中文论坛，已关站）
-MCBBS 在其生命周期内完成了关于整合包的一部分标准化工作。由于资料缺失，此节内容可能错误。
-- [MCBBS-1247765](https://archives.mcbbs.co/read.php?tid=1247765) 未知版本的整合包格式，储存于一个第三方镜像站。来源未核实。
-
 #### MCLF（中国MC启动器联盟）
 MCLF 发布的规范主要关注启动器需要标准化的实现，主要中文启动器作者均参与。
 - [MCLF-1](https://github.com/MCLF-CN/docs/issues/1)  Authlib-Injector 兼容的 Yggdrasil 服务端的公告扩展
@@ -38,10 +34,8 @@ MCLF 发布的规范主要关注启动器需要标准化的实现，主要中文
 - [MCLF-5](https://github.com/MCLF-CN/docs/issues/5)  公共依赖项
 - [MCLF-6](https://github.com/MCLF-CN/docs/issues/6)  OptiFine 兼容性警告
 - [MCLF-7](https://github.com/MCLF-CN/docs/issues/7)  默认的离线 UUID
-
-#### Scaffolding Minecraft（联机客户端数据交换协议的建设者）
-Scaffolding 是标准化组织的后起之秀，目前定义了 PCL CE 联机大厅，HMCL 陶瓦使用的联机客户端数据交换协议。
-- [SCF-SCFP](https://github.com/Scaffolding-MC/Scaffolding-MC/blob/main/README.md) Minecraft 联机客户端数据交换协议
+- [MCLF-14](https://github.com/MCLF-CN/docs/issues/14) / [MCLF-19](https://github.com/MCLF-CN/docs/pull/19) MCBBS 整合包格式
+- [MCLF-20](https://github.com/MCLF-CN/docs/issues/20) 联机客户端之间的数据交换协议 
 
 #### PCL（PCL 启动器）
 PCL 较少参与初期阶段的标准化进程。其在封装协议时一般考虑其在编程上是否是最简洁，无心智负担而容易实现的。
